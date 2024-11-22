@@ -1,1 +1,4 @@
 Test 2 dosyamız oluşturuldu
+
+
+Test2 dosyamızı test-branch içinde değiştiriyorum.
